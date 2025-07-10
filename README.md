@@ -59,4 +59,9 @@ This project demonstrates proficiency in modern front-end development, particula
 Conclusion:
 The Interactive Quiz Platform is more than just a testing tool—it’s a showcase of front-end development skill and thoughtful UI/UX design. Whether used for student learning, employee assessments, or general knowledge games, this project illustrates how modern web technologies can come together to create interactive and impactful digital experiences.
 
+**OUTPUT**
+
+<img width="1919" height="948" alt="Image" src="https://github.com/user-attachments/assets/8a0569d7-dc18-40c4-81bc-d6b8bdecb90a" />
+
+
 

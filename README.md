@@ -65,4 +65,8 @@ The Interactive Quiz Platform is more than just a testing tool—it’s a showca
 
 <img width="1917" height="954" alt="Image" src="https://github.com/user-attachments/assets/f7864871-e7db-467f-92da-51d2537db9ea" />
 
+<img width="1918" height="936" alt="Image" src="https://github.com/user-attachments/assets/6bff9ec4-c3f5-427a-a73a-86322f5c1443" />
+
+<img width="1919" height="960" alt="Image" src="https://github.com/user-attachments/assets/e4a38ee1-2049-4e23-a4c3-153ee876c4c7" />
+
 
